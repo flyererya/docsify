@@ -1,0 +1,3 @@
+- concat不会改变原数组，参数可以是a或者a,b或者数组
+- map不会改变原数组,第一个参数item，第二个index
+- reverse 会改变原数组
