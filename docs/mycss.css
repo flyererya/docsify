@@ -903,6 +903,10 @@
 /* ==================
           圆角
  ==================== */
+
  .round {
-     border-radius: 8px;
+     border-radius: 5000px;
+ }
+ .radius{
+    border-radius: 8px;
  }

@@ -1,4 +1,10 @@
 * [ReadMe](/)   
+- [resume](/resume/index.html)  
+- [小程序](/mini-pro/index.md) 
+- [mycss](/mycss/index.html)  
 * [axios](/axios/index.md)   
 <!-- - [array](/array/index.md)  -->
-- [mycss](/mycss/index.html)   
+- [js-dom编程艺术读书笔记](/JS-DOM编程艺术/index.md)  
+- [你不知道的javascript](/你不知道的javascript/)   
+- [js高级程序设计](/js高级程序设计/)  
+- [js总结](/js总结/)   
