@@ -1,6 +1,6 @@
 * [ReadMe](/)   
-- [resume](/resume/index.html)  
-- [小程序](/mini-pro/index.md) 
+<!-- - [resume](/resume/index.html)   -->
+<!-- - [小程序](/mini-pro/index.md)  -->
 - [mycss](/mycss/index.html)  
 * [axios](/axios/index.md)   
 <!-- - [array](/array/index.md)  -->
