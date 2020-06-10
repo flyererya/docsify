@@ -23,11 +23,8 @@ module.exports = {
             css: {},
             postcss: {
                 plugins: [
-                    require("postcss-px2rem")({
-                        // 以设计稿750为例， 750 / 10 = 75
-                        // 如果是大屏，比如1980px的，就设置成198，总之就除以10就好了
-                        // 因为flexble.js 默认也是屏幕宽度除以10
-                        remUnit: 75,
+                    require("postcss-plugin-px2rem")({
+                        rootValue: 198, //换算基数， 默认100
                     }),
                 ],
             },
