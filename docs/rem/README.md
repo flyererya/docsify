@@ -24,7 +24,10 @@ module.exports = {
             postcss: {
                 plugins: [
                     require("postcss-plugin-px2rem")({
-                        rootValue: 198, //换算基数， 默认100
+                        rootValue: 198, //换算基数，默认100
+                        // 根据设计搞设置，如果是移动端750的设计稿，设置成75
+                        // 如果是pc端的大屏，比如1980，设置成198，总之就是除以10，
+                        // 因为flexible.js 默认就是屏幕宽度除以10
                     }),
                 ],
             },
